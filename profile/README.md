@@ -4,10 +4,8 @@ At TesterArmy, we're on a mission to make end-to-end testing effortless.
 
 ---
 
-> **Important**
->
-> TesterArmy tests the actual website, not just the diff, so you know it works
-> before users see it.
+> [!IMPORTANT]
+> TesterArmy tests the actual website, not just the diff, so you know it works before users see it.
 
 ---
 
@@ -31,4 +29,4 @@ We'd love to hear from you:
 
 ---
 
-_Backed by Y Combinator. Built for teams who care about quality._
+_Backed by [Y Combinator](https://www.ycombinator.com/companies/testerarmy). Built for teams who care about quality._
